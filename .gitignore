@@ -1,0 +1,8 @@
+node_modules
+.idea/*
+.templaterc.js
+template
+dist
+.DS_Store
+package
+resumeCache
